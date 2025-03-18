@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "akamaized.net",
+        "foxplus.com",
+        "theplatform.com"
+      ]
+    }
+  ],
+  "version": 2
+}

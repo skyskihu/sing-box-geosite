@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "disney.api.edge.bamgrid.com",
+        "disney.content.edge.bamgrid.com",
+        "disneyplus.com",
+        "prod-static.disney-plus.net"
+      ]
+    }
+  ],
+  "version": 2
+}

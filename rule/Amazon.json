@@ -1,0 +1,50 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "avodmp4s3ww-a.akamaihd.net",
+        "d1v5ir2lpwr8os.cloudfront.net",
+        "d1y002tclu9djj.cloudfront.net",
+        "d22qjgkvxw22r6.cloudfront.net",
+        "d25xi40x97liuc.cloudfront.net",
+        "d27xxe7juh1us6.cloudfront.net",
+        "dmqdd6hw24ucf.cloudfront.net",
+        "dualstack.pefs-alb-266603904.eu-west-1.elb.amazonaws.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "avoddashs"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "aiv-cdn.net",
+        "aiv-delivery.net",
+        "amazonprimevideos.com",
+        "amazonvideo.cc",
+        "amazonvideo.com",
+        "amazonvideodirect.cc",
+        "atv-ext-eu.amazon.com",
+        "atv-ext-fe.amazon.com",
+        "atv-ext.amazon.com",
+        "atv-ps-eu.amazon.co.uk",
+        "atv-ps-eu.amazon.com",
+        "atv-ps-fe.amazon.co.jp",
+        "atv-ps-fe.amazon.com",
+        "atv-ps.amazon.com",
+        "fls-na.amazon.com",
+        "media-amazon.com",
+        "prime-video.com",
+        "primevideo.cc",
+        "primevideo.com",
+        "primevideo.info",
+        "primevideo.org",
+        "primevideo.tv",
+        "pv-cdn.net",
+        "video.a2z.com"
+      ]
+    }
+  ],
+  "version": 2
+}
