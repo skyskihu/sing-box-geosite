@@ -27,10 +27,10 @@
     },
     {
       "domain_suffix": [
-        "ai",
         "ai.com",
         "aistudio.google.com",
         "anthropic.com",
+        "apis.google.com",
         "bard.google.com",
         "cdn.oaistatic.com",
         "chatgpt.com",
