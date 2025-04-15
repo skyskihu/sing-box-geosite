@@ -37,6 +37,7 @@
         "claude.ai",
         "claudeusercontent.com",
         "clipdrop.co",
+        "codeium.com",
         "cursor.sh",
         "deepmind.com",
         "deepmind.google",
@@ -46,6 +47,7 @@
         "generativeai.google",
         "generativelanguage.googleapis.com",
         "githubcopilot.com",
+        "grok.com",
         "groq.com",
         "jasper.ai",
         "makersuite.google.com",
@@ -59,7 +61,8 @@
         "perplexity.ai",
         "poe.com",
         "proactivebackend-pa.googleapis.com",
-        "sora.com"
+        "sora.com",
+        "x.ai"
       ]
     }
   ],
