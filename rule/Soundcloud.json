@@ -1,13 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "sndcdn.com",
-        "soundcloud.app.goo.gl",
-        "soundcloud.com",
-        "soundcloudmail.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
