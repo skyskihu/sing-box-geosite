@@ -1,15 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "amemv.com",
-        "ixigua.com",
-        "ixiguavideo.com",
-        "pstatp.com",
-        "snssdk.com",
-        "toutiao.com"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
