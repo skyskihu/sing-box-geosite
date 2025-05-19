@@ -1,4 +1,17 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_keyword": [
+        "nowtv100",
+        "rthklive"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mytvsuper.com",
+        "tvb.com"
+      ]
+    }
+  ],
   "version": 2
 }
