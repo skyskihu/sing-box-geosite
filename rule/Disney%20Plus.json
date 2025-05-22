@@ -2,10 +2,13 @@
   "rules": [
     {
       "domain_suffix": [
-        "disney.api.edge.bamgrid.com",
-        "disney.content.edge.bamgrid.com",
+        "bamgrid.com",
+        "cdn.registerdisney.go.com",
+        "disney-plus.net",
+        "disneynow.com",
         "disneyplus.com",
-        "prod-static.disney-plus.net"
+        "disneystreaming.com",
+        "dssott.com"
       ]
     }
   ],
